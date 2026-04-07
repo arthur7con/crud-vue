@@ -9,10 +9,11 @@ Sistema CRUD de usuários com:
 ## Como rodar
 
 ### Backend
-cd backend
-node server.js
+
+-cd backend  
+-node server.js
 
 ### Frontend
-cd frontend
-npm install
-npm run dev
+-cd frontend
+-npm install
+-npm run dev
